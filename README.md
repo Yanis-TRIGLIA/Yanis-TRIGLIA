@@ -1,18 +1,13 @@
-### Hi there 👋
+### Welcome on My GitHub
+My Name is TRIGLIA Yanis
 
-<!--
-**Yanis-TRIGLIA/Yanis-TRIGLIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm french students of computer science university of Aix-en-Provence and this is my GitHub :
 
-Here are some ideas to get you started:
+For Moment i put down only school project and in a very short time I will deposit personall project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+here is different project that I realized :
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanis-TRIGLIA&theme=vision-friendly-dark&show_icons=true)
