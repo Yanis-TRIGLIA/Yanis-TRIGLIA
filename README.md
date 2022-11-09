@@ -1,12 +1,13 @@
 <h1>Welcome on My GitHub 💻</h1>
+<strong>
 My Name is TRIGLIA Yanis
 
 I'm french students of computer science university of Aix-en-Provence and this is my GitHub :
 
 For Moment i put down only school project and in a very short time I will deposit personall project
 
-here is different project that I realized :
-
+🚀Here is different project that I realized :
+</strong>
 
 
 
