@@ -17,6 +17,4 @@ For Moment i put down only school project and in a very short time I will deposi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanis-TRIGLIA&theme=vision-friendly-dark&show_icons=true)
 
-<a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanis-TRIGLIA&theme=vision-friendly-dark&langs_count=6)" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
