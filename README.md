@@ -44,9 +44,8 @@
 
 ## 📌 Featured Projects
 
-- 🌦️ [**Meteo Data View**](https://github.com/Yanis-TRIGLIA/Meteo_Data_View) — Data analysis project
+
 - 🌐 [**Portfolio Website**](https://www.yanis-triglia.fr) — Personal website built to showcase my projects and background
-- 📄 [**CVReader**](https://cvreader.fr/) — Web project available online
 - 📦 **Stock Management Application** — Freelance project developed for a school using **Spring Boot** and **Angular**
 
 ---
