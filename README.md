@@ -26,17 +26,17 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
+<p style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=java,js,ts,php,html,css,sql" />
 </p>
 
 ### Frameworks & Tools
-<p>
+<p style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=spring,react,angular,laravel,nodejs,tailwind,docker,kubernetes,git,gitlab,aws" />
 </p>
 
 ### Databases
-<p>
+<p style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
@@ -44,9 +44,18 @@
 
 ## 📌 Featured Projects
 
+- 🌐 [**Portfolio Website**](https://www.yanis-triglia.fr)  
+  Personal website built to showcase my projects and background
 
-- 🌐 [**Portfolio Website**](https://www.yanis-triglia.fr) — Personal website built to showcase my projects and background
-- 📦 **Stock Management Application** — Freelance project developed for a school using **Spring Boot** and **Angular**
+- 🏗️ [**Maison de l'Épouvante (School Project)**](https://github.com/Maison-epouvante)  
+  Microservices-based application built with **PHP** and **Java (Spring Boot & Spring Security)**  
+  • Architecture composed of multiple independent services orchestrated via an **API Gateway**  
+  • Deployed on **Azure AKS (Kubernetes)**  
+  • Integrated **CI/CD pipeline (GitLab)** with automated tests  
+  • Code quality & security ensured with **SonarCloud**  
+
+- 📦 [**Stock Management Application**](https://gestionstockgb.fr/)  
+  Freelance project developed for a school using **Spring Boot** and **Angular**
 
 ---
 
